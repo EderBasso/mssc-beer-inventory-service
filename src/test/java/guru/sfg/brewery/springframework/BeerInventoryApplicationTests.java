@@ -1,4 +1,4 @@
-package guru.sfg.beer.inventory.service;
+package guru.sfg.brewery.springframework;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

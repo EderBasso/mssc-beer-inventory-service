@@ -14,9 +14,9 @@
  *     You should have received a copy of the GNU General Public License
  *     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
-package guru.sfg.beer.inventory.service.repositories;
+package guru.sfg.brewery.springframework.repositories;
 
-import guru.sfg.beer.inventory.service.domain.BeerInventory;
+import guru.sfg.brewery.springframework.domain.BeerInventory;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
