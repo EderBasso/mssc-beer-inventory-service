@@ -1,4 +1,4 @@
-package guru.sfg.brewery.springframework.services;
+package guru.sfg.brewery.springframework.services.listeners;
 
 import guru.sfg.brewery.springframework.config.JmsConfig;
 import guru.sfg.brewery.springframework.domain.BeerInventory;
